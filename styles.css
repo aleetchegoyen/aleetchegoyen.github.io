@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(124, 173, 201);
+    color: rgb(238, 231, 167);
+    font-size: 20px;
+    
+}
+
+h1{
+    color: rgb(10, 10, 10);
+}
+h2{
+    color: rgb(51, 62, 126);
+    text-decoration: underline;
+}
+
+
+img{
+  width: 150px;
+}
+
+.about{
+    font-style:oblique;
+    color: black;
+}
+
+.projects{
+    font-style: normal;
+    color:rgb(13, 63, 28) ;
+}
+
+.curso{
+    color: rgb(80, 255, 133);
+}
+
+.wppymail{
+    background-color: greenyellow;
+   max-width: 400px;
+    color: black;
+
+}
+
+#explab{
+    color: blue;
+}
+#curs{
+    color:rgb(92, 62, 85)
+}
+#Contact{
+    color: brown;
+}
